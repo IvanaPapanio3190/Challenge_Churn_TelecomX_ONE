@@ -4,6 +4,9 @@
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) profundo sobre la evasión de clientes (*churn*) en la empresa **Telecom X**. A través de la ciencia de datos, identificamos patrones críticos y factores de riesgo para proponer estrategias de retención efectivas dentro del marco del programa **Oracle Next Education (#ONE)**.
 
+---
+---
+
 ## 📍 Índice
 1. [Objetivo del Proyecto](#-objetivo-del-proyecto)
 2. [Herramientas y Tecnologías](#-herramientas-y-tecnologías)
@@ -56,6 +59,7 @@ A diferencia de análisis convencionales, este proyecto puso especial énfasis e
 Aspirante a Analista de Datos | Alumno en el programa ONE (Oracle + Alura)
  Ivana Papaño
 
+---
 ---
 
 
