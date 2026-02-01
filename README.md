@@ -46,7 +46,7 @@ A diferencia de análisis convencionales, este proyecto puso especial énfasis e
 A través del análisis visual y estadístico, identificamos los siguientes puntos críticos:
 
 ### 1. Magnitud de la Evasión
-![Tasa de Churn](imagenes/grafico_churn.png)
+![Tasa de Churn](Imágenes/grafico_churn.png)
 * **Tasa de Churn Real:** Tras la limpieza y curaduría de datos, se determinó una evasión del **26.5%**. Este valor representa el punto de partida para las estrategias de retención.
 
 ### 2. Segmentación por Contrato y Pago
