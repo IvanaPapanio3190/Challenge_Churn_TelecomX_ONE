@@ -1,6 +1,6 @@
 # 📊 Análisis de Evasión de Clientes - Telecom X
 
-![Banner Telecom X](banner.png)
+![Banner Telecom X](Imágenes/banner.png)
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) profundo sobre la evasión de clientes (*churn*) en la empresa **Telecom X**. A través de la ciencia de datos, identificamos patrones críticos y factores de riesgo para proponer estrategias de retención efectivas dentro del marco del programa **Oracle Next Education (#ONE)**.
 
