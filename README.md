@@ -50,16 +50,16 @@ A través del análisis visual y estadístico, identificamos los siguientes punt
 * **Tasa de Churn Real:** Tras la limpieza y curaduría de datos, se determinó una evasión del **26.5%**. Este valor representa el punto de partida para las estrategias de retención.
 
 ### 2. Segmentación por Contrato y Pago
-![Impacto de Contratos](imagenes/grafico_t_contratos.png)
+![Impacto de Contratos](Imágenes/grafico_t_contratos.png)
 * **Factor Contractual:** Los clientes con contratos **mes a mes** son el principal detonante de fuga.
 * **Método de Pago:** Se detectó una correlación alta de abandono en usuarios que utilizan *Electronic Check*.
 
 ### 3. Comportamiento y Lealtad (Tenure)
-![Distribución Tenure](imagenes/grafico_permanencia.png)
+![Distribución Tenure](Imágenes/grafico_permanencia.png)
 * **Punto de Lealtad:** La probabilidad de abandono disminuye drásticamente después de los **12 meses** de antigüedad (*tenure*). Los primeros meses son el periodo de mayor riesgo.
 
 ### 4. Análisis de Costos y Correlación
-![Mapa de Calor](imagenes/grafico_correlacion.png)
+![Mapa de Calor](Imágenes/grafico_correlacion.png)
 * **Impacto de Costos:** Los clientes que cancelan pagan, en promedio, cargos mensuales superiores a los que permanecen, lo que sugiere una sensibilidad al precio.
 * **Correlación:** El análisis matemático confirma que la **antigüedad** y los **cargos mensuales** son los principales predictores del comportamiento del cliente.
 
@@ -72,7 +72,7 @@ A través del análisis visual y estadístico, identificamos los siguientes punt
 ## 🧑‍💻 Autor
 
  **Ivana Papaño**
-Aspirante a Analista de Datos | Alumno en el programa ONE (Oracle + Alura)
+Aspirante a Analista de Datos | Alumno en el programa ONE (Oracle + Alura Latam)
  Ivana Papaño
 
 ---
