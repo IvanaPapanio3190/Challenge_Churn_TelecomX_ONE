@@ -72,11 +72,12 @@ A través del análisis visual y estadístico, identificamos los siguientes punt
 ## 🧑‍💻 Autor
 
 ### **Made by:Ivana Papaño**
-Aspirante a Analista de Datos | Alumno en el programa ONE (Oracle + Alura Latam)
+
+*Aspirante a Analista de Datos | Alumno en el programa ONE (Oracle + Alura Latam)*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivana.papanio@gmail.com) 
  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IvanaPapanio3190/Challenge_Churn_TelecomX_ONE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-papano)
 
