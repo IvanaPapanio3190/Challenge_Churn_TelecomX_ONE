@@ -50,7 +50,7 @@ A través del análisis visual y estadístico, identificamos los siguientes punt
 * **Tasa de Churn Real:** Tras la limpieza y curaduría de datos, se determinó una evasión del **26.5%**. Este valor representa el punto de partida para las estrategias de retención.
 
 ### 2. Segmentación por Contrato y Pago
-![Impacto de Contratos](imagenes/grafico_contratos.png)
+![Impacto de Contratos](imagenes/grafico_t_contratos.png)
 * **Factor Contractual:** Los clientes con contratos **mes a mes** son el principal detonante de fuga.
 * **Método de Pago:** Se detectó una correlación alta de abandono en usuarios que utilizan *Electronic Check*.
 
