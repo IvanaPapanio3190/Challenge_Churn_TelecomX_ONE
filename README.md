@@ -2,7 +2,7 @@
 
 ![Banner Telecom X](Imágenes/banner.png)
 
-Este proyecto realiza un análisis exploratorio de datos (EDA) profundo sobre la evasión de clientes (*churn*) en la empresa **Telecom X**. A través de la ciencia de datos, identificamos patrones críticos y factores de riesgo para proponer estrategias de retención efectivas dentro del marco del programa **Oracle Next Education (#ONE)**.
+Este proyecto realiza un análisis exploratorio de datos (EDA) profundo sobre la evasión de clientes (*churn*) en la empresa **Telecom X**. A través de la ciencia de datos, identificamos patrones críticos y factores de riesgo para proponer estrategias de retención efectivas dentro del marco del programa **Oracle Next Education (#ONE)** de **Alura Latam**.
 
 ---
 ---
@@ -40,12 +40,28 @@ A diferencia de análisis convencionales, este proyecto puso especial énfasis e
 3. **Corrección de Tipos:** Transformación de datos financieros de texto a numérico (`Charges.Total`).
 4. **Ingeniería de Variables:** Creación de la métrica `Cuentas_Diarias` para análisis granular de facturación.
 
+
 ## 📈 Hallazgos Clave
 
-* **Tasa de Churn Real:** Tras la limpieza, se determinó una evasión del **26.5%**.
-* **Factor Contractual:** Los contratos **mes a mes** son el principal detonante de fuga.
-* **Punto de Lealtad:** La probabilidad de abandono disminuye drásticamente después de los **12 meses** de antigüedad (*tenure*).
-* **Impacto de Costos:** Los clientes que cancelan pagan, en promedio, cargos mensuales superiores a los que permanecen.
+A través del análisis visual y estadístico, identificamos los siguientes puntos críticos:
+
+### 1. Magnitud de la Evasión
+![Tasa de Churn](imagenes/grafico_churn.png)
+* **Tasa de Churn Real:** Tras la limpieza y curaduría de datos, se determinó una evasión del **26.5%**. Este valor representa el punto de partida para las estrategias de retención.
+
+### 2. Segmentación por Contrato y Pago
+![Impacto de Contratos](imagenes/grafico_contratos.png)
+* **Factor Contractual:** Los clientes con contratos **mes a mes** son el principal detonante de fuga.
+* **Método de Pago:** Se detectó una correlación alta de abandono en usuarios que utilizan *Electronic Check*.
+
+### 3. Comportamiento y Lealtad (Tenure)
+![Distribución Tenure](imagenes/grafico_permanencia.png)
+* **Punto de Lealtad:** La probabilidad de abandono disminuye drásticamente después de los **12 meses** de antigüedad (*tenure*). Los primeros meses son el periodo de mayor riesgo.
+
+### 4. Análisis de Costos y Correlación
+![Mapa de Calor](imagenes/grafico_correlacion.png)
+* **Impacto de Costos:** Los clientes que cancelan pagan, en promedio, cargos mensuales superiores a los que permanecen, lo que sugiere una sensibilidad al precio.
+* **Correlación:** El análisis matemático confirma que la **antigüedad** y los **cargos mensuales** son los principales predictores del comportamiento del cliente.
 
 ## 📝 Conclusiones y Recomendaciones
 
